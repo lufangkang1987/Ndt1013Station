@@ -1,0 +1,322 @@
+[
+  {
+    "path": "bin/x64/Algorithm.dll",
+    "bytes": 8704,
+    "sha256": "27b56af8d48fffc91cc2f64402106642ad6adbcef17073a4f0dace7a4a5da214"
+  },
+  {
+    "path": "bin/x64/CaliDynamic.dll",
+    "bytes": 4403200,
+    "sha256": "6bb83aa158a22654c8b54382683585943b65b640d44449ac1002dab26c40b93c"
+  },
+  {
+    "path": "bin/x64/CaliE4W.dll",
+    "bytes": 4473344,
+    "sha256": "a41d5000ae637c22873c340c04fb34b446e3a175bb28f2edb797a21746001c75"
+  },
+  {
+    "path": "bin/x64/CaliImpl.dll",
+    "bytes": 4365312,
+    "sha256": "31621d04c907e97e659a49d1bd8d60cd2c4b53f34d7e6b0fac6e8445a3cc6a46"
+  },
+  {
+    "path": "bin/x64/CaliModule.dll",
+    "bytes": 4277760,
+    "sha256": "e1f22fdb44b4dac3077cf5223f4e9aa40485ad24a6a81464220bf92d6bd8e70a"
+  },
+  {
+    "path": "bin/x64/ConnGigEVision.dll",
+    "bytes": 126464,
+    "sha256": "26a34e1cb3729a4d4e27ba51e2414d65567eb7d3606aaafc0d118f7a0fa43245"
+  },
+  {
+    "path": "bin/x64/ConnSGDMA.dll",
+    "bytes": 124928,
+    "sha256": "88f3a9759864305519c11ceb90835728b668bc5bdafd6feab0d0c421ecebbdfe"
+  },
+  {
+    "path": "bin/x64/ConnUDP.dll",
+    "bytes": 122368,
+    "sha256": "b9dac8e73ac33f8ad3aa0bef4b45ba1c9990c95d64b5d0ff29705271bedd86d2"
+  },
+  {
+    "path": "bin/x64/ConnUDPE50.dll",
+    "bytes": 185344,
+    "sha256": "fd69a271b4203c9ecf2b7486d795b38139d20ea6db6c9ca97b419f49787df5f6"
+  },
+  {
+    "path": "bin/x64/ConnUdpTcp.dll",
+    "bytes": 179712,
+    "sha256": "f29030a97c02051254481ec8212eec185a088e05d0f63d17f9a7c8b2a4ab757c"
+  },
+  {
+    "path": "bin/x64/ConnUdpTcpE51.dll",
+    "bytes": 182784,
+    "sha256": "e39c0393a4208f6c738377f9db0bb58199466544277b5a3731bca5609f738a31"
+  },
+  {
+    "path": "bin/x64/ConnUdpTcpE52.dll",
+    "bytes": 255488,
+    "sha256": "76bbeab70f8f97da92f8323a31b7bfef33d86e34260ae32c7c70a69fd2da3dc8"
+  },
+  {
+    "path": "bin/x64/ConnUSBfifo.dll",
+    "bytes": 158208,
+    "sha256": "9e9788df6a712c3c13cb4a1d26f2e6aa0609b0634c7f72ba2ae2bd35e811ed99"
+  },
+  {
+    "path": "bin/x64/CountryChannels.db",
+    "bytes": 53248,
+    "sha256": "ce1418cf159fb0ac69896784d78c317629665bce59b218ab8d3446b8daef85c6"
+  },
+  {
+    "path": "bin/x64/CtrlBox.dll",
+    "bytes": 345088,
+    "sha256": "4c18542eedcd4ec4094d21393c2581d7bc119955f5088a551b402ae6d6715fcd"
+  },
+  {
+    "path": "bin/x64/DetectorProxy.dll",
+    "bytes": 110592,
+    "sha256": "2979c327291f75fdac75ff207e3ee15e9ae5763e3fe13355e774a759be0a3964"
+  },
+  {
+    "path": "bin/x64/DetectorService.exe",
+    "bytes": 124928,
+    "sha256": "1b5ea597cd099a079a8092b3e9e8eccb7492f5f378a3402e00b9f02a147a4153"
+  },
+  {
+    "path": "bin/x64/DetFinder.dll",
+    "bytes": 144896,
+    "sha256": "98805fa3b8778ba5605e04630c1a399aae9a74bf1ae22922d253c766dec6a407"
+  },
+  {
+    "path": "bin/x64/E3.dll",
+    "bytes": 3776000,
+    "sha256": "5ea28482efd948278194de616251b515d1355d16969912594f3d7b566cea1641"
+  },
+  {
+    "path": "bin/x64/E3D.dll",
+    "bytes": 3790848,
+    "sha256": "f3ee04cecf174e5864273df0911f7732b796500754f4394a7f8635ca750d958c"
+  },
+  {
+    "path": "bin/x64/E4.dll",
+    "bytes": 4867072,
+    "sha256": "9396c82d2955bed981ab2818868075a0a6c32627f09346433a8cb4a8b4894651"
+  },
+  {
+    "path": "bin/x64/E45E.dll",
+    "bytes": 5397504,
+    "sha256": "a54830c2f7cb33873b388a6cbb7f74b4a691127b22b807916fd710e6759f546c"
+  },
+  {
+    "path": "bin/x64/E45N.dll",
+    "bytes": 5117440,
+    "sha256": "671a9da1d696cda9442072d9fae6305493cd2f7aa88c3f9526320ce484059780"
+  },
+  {
+    "path": "bin/x64/E45SD.dll",
+    "bytes": 1411584,
+    "sha256": "96dfac6184344bd4e6f404bb9ff4d9d5c37381ebaf42f01806b98b59232eb830"
+  },
+  {
+    "path": "bin/x64/E45W.dll",
+    "bytes": 5274624,
+    "sha256": "ad0a83a04731890efc285472444dd1967462dffc654e91a7b34335811737bb48"
+  },
+  {
+    "path": "bin/x64/E4N.dll",
+    "bytes": 4177920,
+    "sha256": "4cd9db66922807ae0785a8ec2c42285fe9271a81ad9ea1105a8deb2bb3741280"
+  },
+  {
+    "path": "bin/x64/E4OXI.dll",
+    "bytes": 3724800,
+    "sha256": "dc9431039860b4a1cde8e3e2f4350d27c06506cd001dd7815d5164c833305399"
+  },
+  {
+    "path": "bin/x64/E4S.dll",
+    "bytes": 4835840,
+    "sha256": "e3e5c36c38ce749609af1f661d9e9dd62fcebf755c7d7f1eb243876a31206d71"
+  },
+  {
+    "path": "bin/x64/E4TDI.dll",
+    "bytes": 4817408,
+    "sha256": "0a2881a1c0a4afdba304340f7b94488677d1f864f026360621df8e8dfb81c1f7"
+  },
+  {
+    "path": "bin/x64/E4W.dll",
+    "bytes": 4360192,
+    "sha256": "50c9a1086ecaea9bf859ee191f7072308922ec7d44fc81ccb899c1b8a8f16ad9"
+  },
+  {
+    "path": "bin/x64/fpd_boost.dll",
+    "bytes": 1397248,
+    "sha256": "da7bba36d9d50c07d9dd21d4c358fa3dc989c49af2c6486148574b8982a7c7b0"
+  },
+  {
+    "path": "bin/x64/fpd_yall.dll",
+    "bytes": 169472,
+    "sha256": "8175d16b7699de894184d6095c4b8d520e4fcd08cd31a89d0224bed066ec774c"
+  },
+  {
+    "path": "bin/x64/FpdSys.dll",
+    "bytes": 2694144,
+    "sha256": "14710892e105966e6484b7c72f3e8f8d1117da42c3f42f36dd376c97467df0b1"
+  },
+  {
+    "path": "bin/x64/FpdSys.lic",
+    "bytes": 2064,
+    "sha256": "840df6b748c5a476bd460f76b267d21cf0929eaf90895a251ceb94dd5780ca80"
+  },
+  {
+    "path": "bin/x64/FTPService.dll",
+    "bytes": 293376,
+    "sha256": "3f5d24aa1937c2837e2962e82d8f093982ac27dd9b0af7e7399c04c195e4c73e"
+  },
+  {
+    "path": "bin/x64/iAECTool.exe",
+    "bytes": 1102848,
+    "sha256": "be8fae014fd1870e6726ed3e638258279c874e48a20d055b93f29731a040ce55"
+  },
+  {
+    "path": "bin/x64/IDicom.dll",
+    "bytes": 3092480,
+    "sha256": "f04c69d96dda2c76622539a6948440929d7fe94fbbd62d8a75b5737ba14c714e"
+  },
+  {
+    "path": "bin/x64/iSecurity.dll",
+    "bytes": 2569216,
+    "sha256": "2af405864bc4f2027942c5e562ce9693ec4f7efc3ab3b12f32de89845be46cde"
+  },
+  {
+    "path": "bin/x64/libAuxiliaryKit.dll",
+    "bytes": 108544,
+    "sha256": "ce4467ed9c0f0c7670352dcde675442a652d181db1775a2808e1d1b8d6349505"
+  },
+  {
+    "path": "bin/x64/SGDMA_Library.dll",
+    "bytes": 109056,
+    "sha256": "e257f9f49ab42d565ddd1dae5ac175ceea99d9afaa01bfb4caef2eabad4d9317"
+  },
+  {
+    "path": "bin/x64/SignalProc.lic",
+    "bytes": 2064,
+    "sha256": "336380e7f5115b33dd0b68f94eb64f9c17dcae06f3cc194c72db07544ef1adf7"
+  },
+  {
+    "path": "bin/x64/SignalProcessing.dll",
+    "bytes": 683008,
+    "sha256": "59a5033d429ce90ac4d0d02bc85368b1f7ab048f0b18e4b9b9855089bee3dfe2"
+  },
+  {
+    "path": "bin/x64/SplicingCorrect.dll",
+    "bytes": 1056256,
+    "sha256": "cf8db9c06f491699cab84525191b8b459606c631f1ddaec94866f570d8b809eb"
+  },
+  {
+    "path": "bin/x64/Syncbox.dll",
+    "bytes": 182784,
+    "sha256": "4a47cd750d4376f2f2e1870f8b619e66e6513cfb803418cb90c21136ccd2d653"
+  },
+  {
+    "path": "bin/x64/TiffParse.dll",
+    "bytes": 33280,
+    "sha256": "280396adfaa3e7dfb4a752fe6ebeeebea7b58ff397acdb2d41dded8b8689dcca"
+  },
+  {
+    "path": "bin/x64/WibuCm64.dll",
+    "bytes": 902504,
+    "sha256": "2df68eeb1c8514ded1ae0554bb5fdaa9633899902df358c772d21b80a5387889"
+  },
+  {
+    "path": "include/IRayAttrDef.h",
+    "bytes": 18863,
+    "sha256": "7f2b988ed345c81d6505dbd0de7e30cee29d962a5c57c87361d1b383f1f19de8"
+  },
+  {
+    "path": "include/IRayAuthDef.h",
+    "bytes": 3539,
+    "sha256": "35cfd2ad5cea57fbdb643d960eed30d9d105b7bbc7990f9f2721d96802da4549"
+  },
+  {
+    "path": "include/IRayCmdDef.h",
+    "bytes": 5624,
+    "sha256": "bd1bcecfd70785d982307e84e116482df5176ff70ace3db61e23593c083ba33e"
+  },
+  {
+    "path": "include/IRayCommon.h",
+    "bytes": 455,
+    "sha256": "eedc24d50a0aaab61e3266f6eaac41c0b53ad1445dc0adb1c7ec75a6e231b084"
+  },
+  {
+    "path": "include/IRayDetFinder.h",
+    "bytes": 2282,
+    "sha256": "3bd0c04d00f0c18e5306cff9209b7cee78c5ce72bf04c10c2275c5450fd92136"
+  },
+  {
+    "path": "include/IRayEnumDef.h",
+    "bytes": 23522,
+    "sha256": "2df40c0e0908f0fb701f037f029036bbbe0aea44a8ece833d3e18f5b3416628a"
+  },
+  {
+    "path": "include/IRayErrDef.h",
+    "bytes": 5097,
+    "sha256": "0083085de3ca52e621bbf706350cad5bf68ee33ddf8961bcc903ce1f87e39608"
+  },
+  {
+    "path": "include/IRayEventDef.h",
+    "bytes": 4970,
+    "sha256": "1915a1b6d4e943f3f65c74f6e13e2efbcc1e0130a3426c248f4783ed418014a7"
+  },
+  {
+    "path": "include/IRayFpdSys.h",
+    "bytes": 20107,
+    "sha256": "f622f67a62201cfdde4cc1e051d33e9eb26c6e5b963505d0a9dd33532a96a8f6"
+  },
+  {
+    "path": "include/IRayFpdSysEx.h",
+    "bytes": 9618,
+    "sha256": "c9b94005c71e62e89637097eea0376b9d517574a473723ca9639eace75faaf8d"
+  },
+  {
+    "path": "include/IRayImage.h",
+    "bytes": 525,
+    "sha256": "682f0e004ddef1228a80c9c8ecfaa7200ef262761a315b2c8a19dfeadb0d5bda"
+  },
+  {
+    "path": "include/IRayVariant.h",
+    "bytes": 1089,
+    "sha256": "bfc5229eccc2b95b51fee5c30ee2153a0204881c2d0ac9d827d71ffa817d9dac"
+  },
+  {
+    "path": "redist/vcredist_x64_vs2013.exe",
+    "bytes": 7194312,
+    "sha256": "e554425243e3e8ca1cd5fe550db41e6fa58a007c74fad400274b128452f38fb8"
+  },
+  {
+    "path": "work_dir/NDT1013LA/calib.ini",
+    "bytes": 1642,
+    "sha256": "3e5092ef4ab22f43dedd749663152eadb48715c1b90b2f47a65adc9b9653dc9f"
+  },
+  {
+    "path": "work_dir/NDT1013LA/config.ini",
+    "bytes": 1555,
+    "sha256": "b2a30a2bff5a39b92d137841daafc6bc69cda2ab14a2013796d223d770798d34"
+  },
+  {
+    "path": "work_dir/NDT1013LA/iDetectorConfig.ini",
+    "bytes": 847,
+    "sha256": "b54d51f071fe63f17fdcbf353093f043c46a6d884aa820e2cf3dd258941c1e63"
+  },
+  {
+    "path": "work_dir/NDT1013LA/ParamRange.ini",
+    "bytes": 429,
+    "sha256": "04c72bbeeca4ac309f274fcd9c9fa7d8cc7625486d05ee03080792a1fba4ef4b"
+  },
+  {
+    "path": "work_dir/NDT1013LA/Others/ExposeTable.jpg",
+    "bytes": 56513,
+    "sha256": "d9030cf6e73b8716fe9ad4f80d65297ea00763a7744e016f846c2b2f29f68e3f"
+  }
+]

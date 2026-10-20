@@ -1,0 +1,7 @@
+/build/
+/out/
+/build-ninja/
+/build-qmake/
+/build-qtcreator/
+/guide-extract.txt
+*.user
